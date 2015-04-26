@@ -1,1 +1,3 @@
 # localjams
+
+songKick api key = 
