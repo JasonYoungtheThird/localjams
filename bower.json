@@ -1,0 +1,20 @@
+{
+  "name": "localjams",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JasonYoungtheThird/localjams",
+  "authors": [
+    "SaintEmbers <quantum108@gmail.com>",
+    "youngrichard <richard.young@utexas.edu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
